@@ -1,0 +1,3 @@
+[submodule "MiniGameKit/MiniGameKit"]
+	path = MiniGameKit/MiniGameKit
+	url = https://github.com/Vignesh-Thangamariappan/MiniGameKit.git
